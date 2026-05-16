@@ -76,7 +76,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="1600" height="389" alt="image" src="https://github.com/user-attachments/assets/f0b0eb95-de83-4f38-9aef-78fb3961c4a3" />
+![alt text](img/1.png)
 
 ## 2.To Write a C program that illustrates files locking
 
@@ -152,7 +152,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="1600" height="627" alt="image" src="https://github.com/user-attachments/assets/32f96c8f-db2c-4122-b285-2270ceb6633a" />
+![alt text](img/2.png)
 
 # RESULT:
 The programs are executed successfully.
